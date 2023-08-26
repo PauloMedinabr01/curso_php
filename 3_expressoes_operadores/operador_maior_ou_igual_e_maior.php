@@ -17,9 +17,9 @@ if ($a > $b) {
 }
 
 if ($a >= $b) {
-    echo " a maior que b <br><br>";
+    echo " a maior igual a b <br><br>";
 } else {
-    echo " a não é maior que b <br><br>";
+    echo " a não é maior igual a b <br><br>";
 }
 
 if ($a >= $c) {
