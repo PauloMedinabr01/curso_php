@@ -53,6 +53,3 @@ function checarParametro($velocidade): void
 
 // paramêtro incorreto informado na função
 checarParametro("a");
-
-
-
