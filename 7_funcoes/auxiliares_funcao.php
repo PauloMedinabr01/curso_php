@@ -13,7 +13,7 @@ function soma($a, $b): int
     // Neste caso, irá imprimir o número 2, pois foram passados 2 argumentos ($a e $b).
     echo func_num_args() . "<br>";
 
-    // Retorna a concatenação de $a e $b. Observe que o resultado não será uma adição numérica devido à concatenação de strings.
+    // Retorna a concatenação de $a e $b. Observe que o resultado não será uma adição numérica devido à concatenação de 8_strings.
     return $a . $b;
 }
 

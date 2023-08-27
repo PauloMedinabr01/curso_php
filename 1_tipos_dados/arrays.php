@@ -13,7 +13,7 @@ echo '<br><br>';
 
 $c = ['paulo', 'luisa', 'joao', 'maria'];
 
-print_r($c); // imprime o array de strings
+print_r($c); // imprime o array de 8_strings
 
 echo '<br><br>';
 

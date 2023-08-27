@@ -31,15 +31,15 @@ if ($a == $c) {
 $nome = "Paulo";
 $aluno = "Paulo";
 if ($nome == $aluno) {
-    echo "Comparação de strings é verdadeira <br><br>";
+    echo "Comparação de 8_strings é verdadeira <br><br>";
 } else {
-    echo "Comparação de strings é falsa <br><br>";
+    echo "Comparação de 8_strings é falsa <br><br>";
 }
 
 $nome = "Paulo";
 $aluno = 10;
 if ($nome == $aluno) {
-    echo "Comparação de strings é verdadeira <br><br>";
+    echo "Comparação de 8_strings é verdadeira <br><br>";
 } else {
-    echo "Comparação de strings é falsa <br><br>";
+    echo "Comparação de 8_strings é falsa <br><br>";
 }
