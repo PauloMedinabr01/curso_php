@@ -45,4 +45,3 @@ $aluno = [
 foreach ($aluno as $nome => $numero) {
     echo "Elemento do array - nome: $nome, número: $numero <br><br>";
 }
-
