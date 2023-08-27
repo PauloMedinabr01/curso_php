@@ -19,9 +19,18 @@ function multiplicar(): void
     $b = 2;
     $c = 4;
 
-    echo $a * $b * $c;
+    echo $a * $b * $c . "<br><br>";
 }
 
 multiplicar();
 
+function concatenar()
+{
+    $nome = "Paulo";
+    $sobrenome = "Coelho";
+
+    echo "Nome: " . $nome . " " . $sobrenome . "<br><br>";
+}
+
+concatenar();
 
