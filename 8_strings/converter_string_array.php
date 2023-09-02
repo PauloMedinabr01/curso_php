@@ -14,5 +14,4 @@ echo "<br><br>";
 
 for ($i = 0; $i < count($stringToArray); $i++) {
     echo "$stringToArray[$i] . <br><br>";
-
 }
