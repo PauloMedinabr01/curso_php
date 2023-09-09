@@ -2,8 +2,11 @@
 
 namespace poo;
 
-class User // declaração com letra maiúscula
+class User
 {
-    // propriedades
-    // métodos
+
 }
+
+$user = new User();
+$pessoa = new User();
+$funcionario = new User();
