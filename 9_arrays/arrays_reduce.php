@@ -7,7 +7,7 @@ function soma($a, $b)
     return $a + $b;
 }
 
-echo "Resultado da soma:" . soma(1, 3) . "<br><br>";
+echo "Resultado da soma: " . soma(1, 3) . "<br><br>";
 
 $resultado = array_reduce($arr, "soma");
 
