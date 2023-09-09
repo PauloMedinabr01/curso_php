@@ -5,7 +5,11 @@ $arr = [];
 print_r($arr);
 echo "<br><br>";
 
-$arr = [10, 20, 30];
+$arr = [
+    10,
+    20,
+    30
+];
 
 print_r($arr);
 echo "<br><br>";

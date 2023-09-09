@@ -1,6 +1,10 @@
 <?php
 
-$pessoa = ['Paulo', 29, 'Programador', 'M'];
+$pessoa = ['Paulo',
+    29,
+    'Programador',
+    'M'
+];
 
 print_r($pessoa);
 echo "<br><br>";
