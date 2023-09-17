@@ -9,7 +9,7 @@ class Carro // Declaração da classe Carro
     public int $aro = 20; // Declara uma propriedade pública chamada "$aro" com um valor padrão de 20
     public string $cor = "Vermelha"; // Declara uma propriedade pública chamada "$cor" com um valor padrão de "Vermelha"
 
-    function ligar()
+    function ligar(): void
     {
         echo "Ligou o carro <br>";
     }
